@@ -1,7 +1,16 @@
+# Cache
+.mypy_cache
+.pytest_cache
+__pycache__
+
+# Venv
+.venv
+
+# Other
+.DS_Store
 bin
 obj
 *.sln.DotSettings.user
-.vs
 vendor
 .idea
 *.iml
